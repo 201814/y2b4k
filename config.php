@@ -2,6 +2,8 @@
 define('APIKEY', 'AIzaSyAREnqpQeULLZL2F89XhfPP3A13OW2M5IU');
 define('TITLENAME', 'YouProxy');
 define('SITE_NAME', 'YouProxy');
+define('NAME', '1');
+define('PASSWORD', '1');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
